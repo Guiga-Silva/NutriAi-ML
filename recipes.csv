@@ -1,0 +1,295 @@
+receita,nacionalidade,ingredientes,categoria,ocasião,tempo,dificuldade,calorias,açúcar,sódio,proteínas,carboidratos,feedback
+Salada de Verão,Brasileira,"['Alface', 'Tomate', 'Cenoura', 'Pepino', 'Pimentão']",Vegetariano,Almoço,15,Fácil,100,5g,50mg,3g,15g,1
+Frango Assado,Americana,"['Frango', 'Limão', 'Alho', 'Alecrim', 'Azeite']",Aves,Jantar,60,Médio,250,0g,200mg,30g,2g,1
+Risoto de Cogumelos,Italiana,"['Arroz Arbóreo', 'Cogumelos', 'Cebola', 'Caldo de legumes', 'Vinho branco']",Vegetariano,Jantar,45,Médio,300,2g,300mg,8g,50g,0
+Pão de Queijo,Brasileira,"['Polvilho', 'Queijo', 'Ovo', 'Leite']",Lanche,Lanche,30,Fácil,150,3g,100mg,5g,20g,1
+Salmão Grelhado,Japonesa,"['Salmão', 'Molho de Soja', 'Gengibre', 'Alho']",Peixes,Jantar,20,Fácil,200,1g,150mg,25g,0g,0
+Espaguete à Carbonara,Italiana,"['Espaguete', 'Ovo', 'Queijo Parmesão', 'Pancetta', 'Pimenta-do-reino']",Massas,Jantar,25,Médio,400,3g,350mg,20g,45g,0
+Tacos Vegetarianos,Mexicana,"['Feijão', 'Milho', 'Pimentão', 'Abacate', 'Salsa']",Vegetariano,Jantar,30,Fácil,300,2g,200mg,10g,35g,0
+Ratatouille,Francesa,"['Berinjela', 'Abobrinha', 'Tomate', 'Cebola', 'Pimentão']",Vegetariano,Almoço,40,Médio,180,4g,100mg,5g,30g,0
+Salada de Frutas,Internacional,"['Morango', 'Abacaxi', 'Maçã', 'Kiwi', 'Melancia']",Sobremesa,Café da manhã,10,Fácil,120,20g,5mg,2g,30g,1
+Chili com Carne,Mexicana,"['Carne moída', 'Feijão', 'Tomate', 'Pimentão', 'Cominho']",Carne,Jantar,40,Médio,350,4g,300mg,25g,20g,1
+Smoothie de Banana,Internacional,"['Banana', 'Iogurte', 'Mel', 'Canela', 'Gelo']",Bebida,Lanche,5,Fácil,150,15g,50mg,5g,25g,1
+Quiche de Espinafre,Francesa,"['Massa de quiche', 'Espinafre', 'Queijo', 'Ovo', 'Creme de leite']",Vegetariano,Almoço,50,Médio,280,2g,200mg,10g,20g,1
+Purê de Batatas,Internacional,"['Batatas', 'Manteiga', 'Leite', 'Noz-moscada', 'Sal']",Acompanhamento,Almoço,30,Fácil,200,1g,100mg,3g,40g,0
+Sanduíche de Atum,Internacional,"['Pão', 'Atum', 'Maionese', 'Alface', 'Tomate']",Peixes,Lanche,15,Fácil,250,3g,200mg,15g,30g,1
+Tabule,Libanesa,"['Trigo para quibe', 'Tomate', 'Salsinha', 'Hortelã', 'Cebola']",Salada,Almoço,20,Fácil,150,5g,150mg,5g,30g,0
+Lasanha de Legumes,Italiana,"['Massa para lasanha', 'Berinjela', 'Abobrinha', 'Queijo', 'Molho de tomate']",Vegetariano,Jantar,60,Médio,320,4g,250mg,15g,35g,1
+Rabo de Boi ao Vinho Tinto,Brasileira,"['Rabo de boi', 'Vinho tinto', 'Cenoura', 'Cebola', 'Alho']",Carne,Jantar,180,Avançado,500,2g,400mg,40g,10g,0
+Salada Caesar,Americana,"['Alface romana', 'Frango grelhado', 'Croutons', 'Queijo parmesão', 'Molho Caesar']",Salada,Almoço,20,Médio,280,3g,300mg,20g,15g,0
+Brownie de Chocolate,Internacional,"['Chocolate', 'Manteiga', 'Açúcar', 'Ovo', 'Farinha']",Sobremesa,Lanche,40,Médio,400,30g,200mg,5g,40g,0
+Sopa de Lentilhas,Indiana,"['Lentilhas', 'Cenoura', 'Cebola', 'Alho', 'Caldo de legumes']",Sopa,Jantar,45,Médio,250,5g,150mg,10g,30g,1
+Salada Waldorf,Americana,"['Maçã', 'Aipo', 'Nozes', 'Maionese', 'Uvas-passas']",Salada,Almoço,15,Fácil,200,10g,100mg,3g,25g,0
+Torta de Limão,Internacional,"['Biscoito', 'Leite condensado', 'Limão', 'Creme de leite', 'Açúcar']",Sobremesa,Lanche,40,Médio,350,40g,150mg,5g,30g,0
+Poke Bowl,Havaiana,"['Arroz', 'Salmão', 'Abacate', 'Pepino', 'Molho de soja']",Peixes,Almoço,25,Fácil,300,2g,200mg,20g,40g,0
+Espinafre à Moda Indiana,Indiana,"['Espinafre', 'Cebola', 'Tomate', 'Gengibre', 'Coentro']",Vegetariano,Jantar,35,Médio,180,3g,100mg,8g,20g,0
+Pizza Margherita,Italiana,"['Massa de pizza', 'Molho de tomate', 'Muçarela', 'Manjericão', 'Azeite']",Carne,Jantar,30,Fácil,350,3g,250mg,15g,30g,1
+Sushi de Salmão,Japonesa,"['Arroz para sushi', 'Salmão', 'Alga nori', 'Vinagre de arroz', 'Wasabi']",Peixes,Almoço,40,Médio,300,2g,200mg,25g,35g,0
+Torta de Frango,Brasileira,"['Massa de torta', 'Frango desfiado', 'Cenoura', 'Ervilha', 'Milho']",Aves,Almoço,50,Médio,280,3g,300mg,20g,25g,1
+Salada Caprese,Italiana,"['Tomate', 'Muçarela de búfala', 'Manjericão', 'Azeite', 'Vinagre balsâmico']",Salada,Almoço,15,Fácil,200,2g,150mg,10g,5g,0
+Risoto de Camarão,Italiana,"['Arroz arbóreo', 'Camarão', 'Cebola', 'Caldo de peixe', 'Vinho branco']",Peixes,Jantar,45,Médio,400,2g,350mg,30g,40g,0
+Estrogonofe de Carne,Russa,"['Carne', 'Creme de leite', 'Cebola', 'Ketchup', 'Mostarda']",Carne,Almoço,40,Médio,320,4g,200mg,25g,15g,0
+Guacamole,Mexicana,"['Abacate', 'Tomate', 'Cebola', 'Coentro', 'Limão']",Vegetariano,Lanche,15,Fácil,180,4g,100mg,3g,10g,1
+Sanduíche de Frango,Internacional,"['Pão', 'Peito de frango', 'Alface', 'Tomate', 'Maionese']",Aves,Lanche,20,Fácil,250,3g,150mg,20g,30g,1
+Panqueca de Banana,Internacional,"['Banana', 'Farinha de trigo', 'Leite', 'Ovo', 'Açúcar']",Sobremesa,Café da manhã,25,Fácil,220,15g,100mg,5g,25g,0
+Churrasco,Brasileira,"['Carne', 'Sal grosso', 'Picanha', 'Linguíça', 'Cerveja']",Carne,Almoço,40,Médio,380,0g,300mg,35g,5g,1
+Omelete de Queijo,Internacional,"['Ovo', 'Queijo', 'Tomate', 'Cebola', 'Salsinha']",Vegetariano,Café da manhã,15,Fácil,200,2g,150mg,15g,10g,0
+Yakissoba,Japonesa,"['Macarrão', 'Frango', 'Legumes', 'Molho de soja', 'Cebola']",Carne,Jantar,30,Médio,300,4g,200mg,20g,35g,1
+Brigadeiro,Brasileira,"['Leite condensado', 'Chocolate em pó', 'Manteiga']",Sobremesa,Lanche,20,Fácil,150,20g,50mg,3g,20g,1
+Caesar Salad,Americana,"['Alface romana', 'Frango grelhado', 'Croutons', 'Queijo parmesão', 'Molho Caesar']",Salada,Almoço,20,Médio,280,3g,300mg,20g,15g,1
+Rabanada,Internacional,"['Pão', 'Leite', 'Ovo', 'Açúcar', 'Canela']",Sobremesa,Café da manhã,25,Fácil,180,15g,100mg,5g,20g,1
+Shakshuka,Israelense,"['Ovo', 'Tomate', 'Pimentão', 'Cebola', 'Cominho']",Vegetariano,Café da manhã,30,Fácil,220,5g,200mg,15g,10g,0
+Salada de Quinoa,Internacional,"['Quinoa', 'Tomate', 'Pepino', 'Cebola', 'Salsa']",Salada,Almoço,20,Fácil,250,3g,150mg,8g,30g,0
+Empadão de Frango,Brasileira,"['Massa para empadão', 'Frango desfiado', 'Azeitona', 'Milho', 'Creme de leite']",Aves,Jantar,50,Médio,300,4g,250mg,20g,25g,1
+Ravióli de Ricota e Espinafre,Italiana,"['Massa para ravióli', 'Ricota', 'Espinafre', 'Molho de tomate', 'Queijo parmesão']",Vegetariano,Jantar,40,Médio,350,3g,300mg,15g,30g,0
+Salada de Macarrão,Internacional,"['Macarrão', 'Presunto', 'Queijo', 'Tomate', 'Maionese']",Salada,Almoço,25,Fácil,280,2g,200mg,15g,20g,1
+Vitamina de Morango,Internacional,"['Morango', 'Leite', 'Iogurte', 'Mel', 'Canela']",Bebida,Café da manhã,10,Fácil,150,20g,50mg,5g,25g,1
+Frango ao Curry,Indiana,"['Frango', 'Leite de coco', 'Curry em pó', 'Cebola', 'Alho']",Aves,Jantar,40,Médio,300,3g,250mg,25g,10g,1
+Tiramisù,Italiana,"['Biscoito champanhe', 'Café', 'Queijo mascarpone', 'Ovo', 'Chocolate']",Sobremesa,Lanche,30,Médio,350,15g,50mg,5g,30g,1
+Sopa de Tomate,Internacional,"['Tomate', 'Cebola', 'Alho', 'Manjericão', 'Caldo de legumes']",Sopa,Almoço,25,Médio,200,8g,300mg,5g,20g,1
+Salpicão,Brasileira,"['Frango desfiado', 'Maçã', 'Cenoura', 'Milho', 'Maionese']",Aves,Almoço,20,Fácil,250,5g,200mg,15g,10g,1
+Massa Carbonara,Italiana,"['Espaguete', 'Ovo', 'Bacon', 'Queijo parmesão', 'Pimenta-do-reino']",Massas,Jantar,30,Médio,400,2g,300mg,20g,40g,1
+Bolo de Cenoura,Internacional,"['Cenoura', 'Óleo', 'Ovo', 'Açúcar', 'Farinha de trigo']",Sobremesa,Lanche,45,Médio,300,25g,100mg,5g,35g,1
+Coxinha,Brasileira,"['Frango desfiado', 'Massa de trigo', 'Leite', 'Caldo de galinha', 'Requeijão']",Aves,Lanche,60,Médio,280,3g,200mg,20g,25g,0
+Yakisoba Vegetariano,Japonesa,"['Macarrão', 'Legumes', 'Cogumelos', 'Molho de soja', 'Cebolinha']",Vegetariano,Jantar,35,Médio,250,3g,150mg,10g,30g,0
+Cheesecake,Internacional,"['Biscoito', 'Cream cheese', 'Açúcar', 'Ovo', 'Creme de leite']",Sobremesa,Lanche,50,Médio,350,30g,200mg,5g,40g,1
+Peixe ao Molho de Maracujá,Brasileira,"['Filé de peixe', 'Maracujá', 'Cebola', 'Alho', 'Azeite']",Peixes,Jantar,30,Médio,200,4g,250mg,20g,5g,0
+Salada de Atum,Internacional,"['Atum em lata', 'Batata', 'Ovo', 'Azeitona', 'Maionese']",Peixes,Almoço,25,Fácil,220,5g,150mg,15g,20g,0
+Pavê,Internacional,"['Biscoito', 'Creme de leite', 'Leite condensado', 'Chocolate', 'Rum']",Sobremesa,Lanche,40,Médio,300,25g,50mg,5g,35g,1
+Arroz de Pato,Portuguesa,"['Arroz', 'Pato', 'Chouriço', 'Cebola', 'Alho']",Aves,Jantar,60,Médio,400,1g,300mg,30g,50g,0
+Salada de Grão-de-bico,Internacional,"['Grão-de-bico', 'Tomate', 'Pepino', 'Cebola roxa', 'Salsinha']",Salada,Almoço,20,Fácil,250,5g,200mg,10g,30g,0
+Strudel de Maçã,Alemã,"['Massa folhada', 'Maçã', 'Açúcar', 'Canela', 'Uvas-passas']",Sobremesa,Lanche,45,Médio,300,20g,100mg,3g,40g,1
+Peito de Frango Grelhado,Internacional,"['Peito de frango', 'Limão', 'Azeite', 'Alho', 'Ervas finas']",Aves,Almoço,25,Fácil,200,0g,250mg,30g,5g,0
+Lasanha à Bolonhesa,Italiana,"['Massa para lasanha', 'Carne moída', 'Molho de tomate', 'Queijo', 'Cebola']",Carne,Jantar,50,Médio,350,3g,300mg,25g,20g,0
+Mousse de Maracujá,Internacional,"['Maracujá', 'Leite condensado', 'Creme de leite', 'Gelatina', 'Açúcar']",Sobremesa,Lanche,40,Médio,250,30g,50mg,3g,25g,0
+Ovos Mexidos com Bacon,Internacional,"['Ovo', 'Bacon', 'Manteiga', 'Pimenta', 'Sal']",Carne,Café da manhã,15,Fácil,280,1g,200mg,15g,10g,1
+Bobó de Camarão,Brasileira,"['Camarão', 'Mandioca', 'Leite de coco', 'Tomate', 'Cebola']",Peixes,Jantar,45,Médio,350,3g,200mg,25g,30g,1
+Rocambole de Carne Moída,Brasileira,"['Carne moída', 'Ovo', 'Farinha de rosca', 'Queijo', 'Presunto']",Carne,Almoço,40,Médio,300,2g,250mg,20g,10g,0
+Cuscuz Paulista,Brasileira,"['Farinha de milho', 'Sardinha', 'Ovo', 'Tomate', 'Pimentão']",Peixes,Almoço,60,Médio,280,2g,300mg,15g,25g,0
+Frango Xadrez,Chinesa,"['Frango', 'Pimentão', 'Cebola', 'Molho de soja', 'Amendoim']",Aves,Jantar,30,Médio,320,3g,200mg,30g,10g,0
+Bacalhoada,Portuguesa,"['Bacalhau', 'Batata', 'Cebola', 'Pimentão', 'Azeitona']",Peixes,Jantar,50,Médio,300,3g,250mg,25g,15g,0
+Quiche Lorraine,Francesa,"['Massa de quiche', 'Bacon', 'Queijo gruyère', 'Creme de leite', 'Ovo']",Carne,Almoço,50,Médio,350,2g,200mg,20g,30g,0
+Sopa de Legumes,Internacional,"['Batata', 'Cenoura', 'Abobrinha', 'Chuchu', 'Tomate']",Sopa,Almoço,35,Médio,180,6g,150mg,5g,20g,0
+Torta de Limão Siciliano,Internacional,"['Biscoito', 'Leite condensado', 'Limão siciliano', 'Creme de leite', 'Açúcar']",Sobremesa,Lanche,40,Médio,300,25g,100mg,5g,30g,1
+Feijoada,Brasileira,"['Feijão preto', 'Carne seca', 'Linguiça', 'Costela de porco', 'Farinha de mandioca']",Carne,Almoço,120,Avançado,400,2g,300mg,30g,40g,1
+Pizza de Calabresa,Italiana,"['Massa de pizza', 'Molho de tomate', 'Calabresa', 'Muçarela', 'Cebola']",Carne,Jantar,35,Médio,380,4g,280mg,20g,30g,0
+Moqueca de Peixe,Brasileira,"['Peixe', 'Leite de coco', 'Pimentão', 'Tomate', 'Cebola']",Peixes,Jantar,50,Médio,320,3g,200mg,25g,15g,1
+Ratatouille Provençal,Francesa,"['Abobrinha', 'Berinjela', 'Pimentão', 'Tomate', 'Cebola']",Vegetariano,Almoço,40,Médio,200,4g,150mg,5g,20g,0
+Sanduíche de Rosbife,Internacional,"['Pão', 'Rosbife', 'Mostarda', 'Rúcula', 'Tomate']",Carne,Lanche,15,Fácil,250,2g,200mg,20g,25g,0
+Salada de Abacate,Internacional,"['Abacate', 'Tomate', 'Cebola roxa', 'Coentro', 'Limão']",Salada,Almoço,20,Fácil,180,3g,150mg,2g,10g,0
+Empadão Goiano,Brasileira,"['Massa para empadão', 'Frango', 'Linguiça', 'Milho', 'Requeijão']",Aves,Jantar,60,Médio,300,3g,250mg,25g,15g,1
+Arroz Carreteiro,Brasileira,"['Arroz', 'Carne seca', 'Cebola', 'Tomate', 'Pimentão']",Carne,Almoço,45,Médio,280,2g,200mg,20g,30g,0
+Peixe Empanado,Internacional,"['Filé de peixe', 'Farinha de rosca', 'Ovo', 'Limão', 'Sal']",Peixes,Almoço,25,Fácil,220,1g,250mg,20g,5g,0
+Torta Holandesa,Internacional,"['Biscoito', 'Manteiga', 'Cream cheese', 'Açúcar', 'Chocolate']",Sobremesa,Lanche,50,Médio,350,30g,100mg,5g,30g,1
+Yakisoba de Legumes,Japonesa,"['Macarrão', 'Legumes', 'Molho de soja', 'Cebolinha', 'Gengibre']",Vegetariano,Jantar,30,Médio,250,3g,150mg,10g,25g,1
+Galette de Legumes,Francesa,"['Massa folhada', 'Abobrinha', 'Tomate', 'Cebola', 'Queijo']",Vegetariano,Almoço,40,Médio,280,2g,200mg,10g,25g,0
+Frango à Parmegiana,Italiana,"['Peito de frango', 'Molho de tomate', 'Queijo muçarela', 'Queijo parmesão', 'Farinha de rosca']",Aves,Jantar,45,Médio,320,3g,250mg,30g,10g,1
+Ravioli de Carne,Italiana,"['Massa para ravioli', 'Carne moída', 'Queijo', 'Molho de tomate', 'Manjericão']",Carne,Jantar,50,Médio,350,4g,300mg,25g,20g,0
+Salmão ao Molho de Maracujá,Internacional,"['Filé de salmão', 'Maracujá', 'Azeite', 'Alho', 'Sal']",Peixes,Jantar,30,Médio,300,2g,200mg,25g,5g,1
+Berinjela à Parmegiana,Italiana,"['Berinjela', 'Molho de tomate', 'Queijo muçarela', 'Queijo parmesão', 'Farinha de rosca']",Vegetariano,Jantar,40,Médio,250,2g,150mg,15g,10g,1
+Tortilha Espanhola,Espanhola,"['Batata', 'Ovo', 'Cebola', 'Azeite', 'Sal']",Vegetariano,Café da manhã,35,Médio,200,2g,180mg,8g,20g,0
+Ceviche de Peixe Branco,Peruana,"['Peixe branco', 'Limão', 'Cebola roxa', 'Pimentão', 'Coentro']",Peixes,Almoço,25,Fácil,150,1g,120mg,20g,5g,1
+Moussaka,Grega,"['Berinjela', 'Carne moída', 'Molho de tomate', 'Queijo', 'Leite']",Carne,Jantar,60,Médio,300,3g,250mg,20g,15g,1
+Salada de Lentilha,Internacional,"['Lentilha', 'Tomate', 'Cebola', 'Pimentão', 'Salsinha']",Salada,Almoço,20,Fácil,180,3g,150mg,10g,25g,0
+Torta de Frango com Catupiry,Brasileira,"['Massa de torta', 'Frango desfiado', 'Requeijão', 'Milho', 'Azeitona']",Aves,Lanche,50,Médio,320,3g,200mg,15g,30g,1
+Crepe de Chocolate,Francês,"['Farinha de trigo', 'Ovo', 'Leite', 'Chocolate', 'Açúcar']",Sobremesa,Lanche,30,Fácil,250,20g,100mg,5g,30g,1
+Quibe de Abóbora,Árabe,"['Abóbora', 'Trigo para quibe', 'Cebola', 'Salsinha', 'Hortelã']",Vegetariano,Almoço,40,Médio,200,3g,150mg,5g,20g,0
+Arroz Doce,Internacional,"['Arroz', 'Leite', 'Açúcar', 'Canela', 'Leite condensado']",Sobremesa,Lanche,45,Médio,300,25g,100mg,5g,40g,1
+Ensopado de Cordeiro,Mediterrâneo,"['Carne de cordeiro', 'Batata', 'Cenoura', 'Cebola', 'Alho']",Carne,Almoço,50,Médio,350,2g,250mg,30g,20g,0
+Salada Grega,Grega,"['Alface', 'Tomate', 'Pepino', 'Azeitona', 'Queijo feta']",Salada,Almoço,20,Fácil,180,4g,150mg,5g,15g,1
+Empadão de Palmito,Brasileira,"['Massa para empadão', 'Palmito', 'Azeitona', 'Tomate', 'Cebola']",Vegetariano,Jantar,45,Médio,250,2g,200mg,10g,30g,0
+Kibe Assado,Árabe,"['Trigo para kibe', 'Carne moída', 'Cebola', 'Hortelã', 'Pimenta síria']",Carne,Jantar,40,Médio,280,3g,180mg,25g,15g,0
+Brigadeiro de Colher,Brasileira,"['Leite condensado', 'Chocolate em pó', 'Manteiga', 'Granulado']",Sobremesa,Lanche,30,Fácil,200,20g,50mg,3g,30g,1
+Peixe à Belle Meunière,Francesa,"['Filé de peixe', 'Manteiga', 'Farinha de trigo', 'Limão', 'Salsinha']",Peixes,Jantar,35,Médio,300,1g,200mg,25g,5g,0
+Sopa de Abóbora,Internacional,"['Abóbora', 'Cebola', 'Alho', 'Caldo de legumes', 'Creme de leite']",Sopa,Almoço,30,Médio,180,4g,250mg,3g,15g,0
+Frango Assado com Ervas,Internacional,"['Frango inteiro', 'Alecrim', 'Tomilho', 'Sálvia', 'Limão']",Aves,Almoço,60,Médio,320,0g,300mg,25g,5g,1
+Risoto de Funghi,Italiana,"['Arroz arbóreo', 'Cogumelos funghi secos', 'Cebola', 'Vinho branco', 'Queijo parmesão']",Vegetariano,Jantar,40,Médio,350,3g,200mg,10g,30g,0
+Yakimeshi,Japonesa,"['Arroz', 'Frango', 'Legumes', 'Ovo', 'Molho de soja']",Carne,Almoço,25,Fácil,280,3g,200mg,15g,25g,0
+Carne de Sol na Nata,Nordestina,"['Carne de sol', 'Creme de leite', 'Manteiga de garrafa', 'Cebola', 'Alho']",Carne,Almoço,50,Médio,300,2g,250mg,30g,5g,0
+Lasanha de Berinjela,Italiana,"['Berinjela', 'Molho de tomate', 'Queijo muçarela', 'Queijo parmesão', 'Manjericão']",Vegetariano,Jantar,45,Médio,280,2g,200mg,20g,15g,1
+Strogonoff de Cogumelos,Internacional,"['Cogumelos', 'Creme de leite', 'Cebola', 'Mostarda', 'Molho inglês']",Vegetariano,Almoço,30,Médio,200,3g,180mg,5g,20g,0
+Coxinha de Jaca,Brasileira,"['Jaca verde', 'Farinha de trigo', 'Leite', 'Caldo de legumes', 'Requeijão vegano']",Vegetariano,Lanche,50,Médio,250,2g,150mg,15g,25g,1
+Paella Valenciana,Espanhola,"['Arroz', 'Frango', 'Linguíça', 'Camarão', 'Pimentão']",Peixes,Jantar,60,Médio,380,2g,300mg,25g,30g,1
+Baião de Dois,Nordestina,"['Arroz', 'Feijão', 'Queijo coalho', 'Carne seca', 'Creme de leite']",Carne,Almoço,45,Médio,320,2g,250mg,20g,30g,1
+Bruschetta,Italiana,"['Pão italiano', 'Tomate', 'Manjericão', 'Alho', 'Azeite']",Vegetariano,Lanche,20,Fácil,180,3g,150mg,5g,20g,1
+Torta de Frutas Vermelhas,Internacional,"['Massa para torta', 'Frutas vermelhas', 'Açúcar', 'Amido de milho', 'Geléia de frutas']",Sobremesa,Lanche,50,Médio,280,30g,50mg,2g,35g,0
+Estrogonofe de Palmito,Brasileira,"['Palmito', 'Creme de leite', 'Cebola', 'Ketchup', 'Mostarda']",Vegetariano,Almoço,40,Médio,250,2g,200mg,15g,10g,0
+Ratatouille de Legumes,Francesa,"['Berinjela', 'Abobrinha', 'Pimentão', 'Tomate', 'Cebola']",Vegetariano,Almoço,35,Médio,200,3g,150mg,5g,20g,0
+Escondidinho de Carne Seca,Brasileira,"['Carne seca', 'Mandioca', 'Queijo coalho', 'Leite', 'Creme de leite']",Carne,Jantar,50,Médio,300,3g,250mg,25g,10g,0
+Yogurt Parfait,Internacional,"['Iogurte natural', 'Frutas', 'Granola', 'Mel', 'Amêndoas']",Sobremesa,Lanche,15,Fácil,200,25g,50mg,5g,20g,0
+Frango à Caçadora,Italiana,"['Peito de frango', 'Tomate', 'Cebola', 'Cogumelos', 'Vinho branco']",Aves,Almoço,40,Médio,280,2g,200mg,25g,5g,0
+Risoto de Aspargos,Italiana,"['Arroz arbóreo', 'Aspargos', 'Caldo de legumes', 'Vinho branco', 'Queijo parmesão']",Vegetariano,Almoço,35,Médio,300,3g,200mg,10g,30g,0
+Moqueca de Camarão,Brasileira,"['Camarão', 'Leite de coco', 'Pimentão', 'Tomate', 'Cebola']",Peixes,Jantar,50,Médio,320,3g,200mg,25g,10g,0
+Arroz à Piamontese,Italiana,"['Arroz', 'Presunto', 'Queijo', 'Creme de leite', 'Cebola']",Carne,Almoço,30,Médio,280,2g,180mg,15g,20g,1
+Sorvete de Chocolate,Internacional,"['Leite', 'Creme de leite', 'Chocolate em barra', 'Açúcar', 'Gemas']",Sobremesa,Lanche,45,Médio,200,20g,50mg,5g,30g,1
+Frango ao Curry Indiano,Indiana,"['Frango', 'Leite de coco', 'Curry em pó', 'Cebola', 'Alho']",Aves,Jantar,40,Médio,300,3g,250mg,25g,10g,0
+Salada de Couscous Marroquino,Marroquina,"['Couscous marroquino', 'Tomate', 'Pepino', 'Salsinha', 'Hortelã']",Salada,Almoço,25,Fácil,200,3g,150mg,5g,25g,1
+Coxinha de Frango,Brasileira,"['Frango desfiado', 'Massa de trigo', 'Leite', 'Caldo de galinha', 'Requeijão']",Aves,Lanche,60,Médio,280,3g,200mg,20g,25g,0
+Cheesecake de Morango,Internacional,"['Biscoito', 'Cream cheese', 'Açúcar', 'Ovo', 'Morango']",Sobremesa,Lanche,50,Médio,350,30g,200mg,5g,40g,0
+Peixe Empanado com Fubá,Brasileira,"['Filé de peixe', 'Fubá', 'Ovo', 'Limão', 'Sal']",Peixes,Almoço,25,Fácil,220,1g,250mg,20g,5g,0
+Yakisoba de Frango,Japonesa,"['Macarrão', 'Frango', 'Legumes', 'Molho de soja', 'Cebolinha']",Aves,Jantar,35,Médio,250,3g,150mg,10g,25g,1
+Churrasco de Carneiro,Internacional,"['Carneiro', 'Limão', 'Azeite', 'Alho', 'Salsinha']",Carne,Almoço,50,Médio,400,2g,300mg,30g,50g,0
+Farofa de Banana,Brasileira,"['Farinha de mandioca', 'Banana', 'Manteiga', 'Cebola', 'Salsinha']",Vegetariano,Acompanhamento,20,Fácil,180,5g,100mg,2g,30g,1
+Vatapá,Baiana,"['Pão', 'Camarão seco', 'Amendoim', 'Leite de coco', 'Dendê']",Peixes,Almoço,45,Médio,300,2g,250mg,20g,10g,0
+Ravioli de Ricota e Espinafre,Italiana,"['Massa para ravioli', 'Ricota', 'Espinafre', 'Noz-moscada', 'Queijo parmesão']",Vegetariano,Jantar,50,Médio,350,4g,300mg,25g,20g,0
+Salada de Macarrão Integral,Internacional,"['Macarrão integral', 'Tomate', 'Cenoura', 'Ervilha', 'Molho de iogurte']",Salada,Almoço,25,Fácil,200,3g,150mg,5g,20g,0
+Omelete de Espinafre,Internacional,"['Ovo', 'Espinafre', 'Queijo', 'Tomate', 'Cebola']",Vegetariano,Café da manhã,20,Fácil,180,2g,120mg,10g,5g,1
+Picanha na Chapa,Brasileira,"['Picanha', 'Sal grosso', 'Limão', 'Alho', 'Pimenta-do-reino']",Carne,Almoço,40,Médio,350,0g,280mg,25g,0g,1
+Torta de Legumes,Internacional,"['Massa para torta', 'Abobrinha', 'Cenoura', 'Ervilha', 'Queijo']",Vegetariano,Lanche,50,Médio,300,3g,200mg,15g,25g,0
+Frango com Batata Doce Assada,Internacional,"['Peito de frango', 'Batata doce', 'Azeite', 'Tomilho', 'Pimenta']",Aves,Almoço,45,Médio,320,1g,250mg,30g,20g,1
+Arroz de Carreteiro,Brasileira,"['Arroz', 'Carne seca', 'Cebola', 'Tomate', 'Pimentão']",Carne,Almoço,40,Médio,300,2g,200mg,20g,30g,1
+Sobremesa de Abacaxi,Internacional,"['Abacaxi', 'Açúcar', 'Canela', 'Cravo', 'Leite condensado']",Sobremesa,Lanche,30,Médio,250,20g,50mg,2g,40g,0
+Nhoque de Batata,Italiana,"['Batata', 'Farinha de trigo', 'Ovo', 'Queijo parmesão', 'Molho de tomate']",Massas,Almoço,60,Médio,350,2g,200mg,10g,40g,0
+Frango ao Molho de Mostarda,Internacional,"['Peito de frango', 'Mostarda', 'Creme de leite', 'Cebola', 'Alho']",Aves,Jantar,40,Médio,280,2g,180mg,25g,10g,1
+Quiche de Alho-poró,Francesa,"['Massa para quiche', 'Alho-poró', 'Creme de leite', 'Ovo', 'Queijo']",Vegetariano,Almoço,40,Médio,300,2g,150mg,15g,25g,1
+Beijinho de Coco,Brasileira,"['Leite condensado', 'Coco ralado', 'Manteiga', 'Açúcar', 'Cravo']",Sobremesa,Lanche,25,Fácil,200,25g,20mg,2g,30g,1
+Estrogonofe de Camarão,Internacional,"['Camarão', 'Creme de leite', 'Molho de tomate', 'Cebola', 'Mostarda']",Peixes,Almoço,45,Médio,300,2g,200mg,25g,5g,1
+Farofa de Bacon,Brasileira,"['Farinha de mandioca', 'Bacon', 'Cebola', 'Cheiro-verde', 'Manteiga']",Acompanhamento,Almoço,25,Fácil,180,2g,150mg,5g,20g,0
+Bobó de Frango,Brasileira,"['Frango', 'Mandioca', 'Leite de coco', 'Tomate', 'Cebola']",Aves,Almoço,40,Médio,320,2g,200mg,25g,15g,0
+Torta de Limão Merengada,Internacional,"['Biscoito', 'Leite condensado', 'Limão', 'Creme de leite', 'Açúcar']",Sobremesa,Lanche,45,Médio,300,25g,100mg,5g,30g,0
+Camarão na Moranga,Brasileira,"['Camarão', 'Moranga', 'Requeijão', 'Creme de leite', 'Azeite']",Peixes,Jantar,50,Médio,350,1g,250mg,25g,5g,0
+Escondidinho de Carne Moída,Brasileira,"['Carne moída', 'Mandioca', 'Queijo', 'Leite', 'Creme de leite']",Carne,Jantar,50,Médio,300,3g,250mg,25g,10g,1
+Yakissoba de Legumes e Frango,Japonesa,"['Macarrão', 'Legumes', 'Frango', 'Molho de soja', 'Cebolinha']",Aves,Jantar,35,Médio,250,3g,150mg,15g,25g,0
+Rocambole de Carne,Brasileira,"['Carne moída', 'Ovo', 'Presunto', 'Queijo', 'Cenoura']",Carne,Almoço,50,Médio,320,3g,200mg,20g,30g,0
+Torta de Banana,Internacional,"['Massa para torta', 'Banana', 'Açúcar', 'Canela', 'Leite']",Sobremesa,Lanche,45,Médio,280,20g,50mg,5g,30g,1
+Polenta com Molho de Linguiça,Italiana,"['Fubá', 'Linguiça', 'Molho de tomate', 'Cebola', 'Alho']",Carne,Almoço,45,Médio,280,2g,200mg,15g,25g,0
+Creme de Ervilha,Internacional,"['Ervilha', 'Cebola', 'Alho', 'Caldo de legumes', 'Creme de leite']",Sopa,Almoço,30,Médio,200,4g,250mg,5g,15g,1
+Lasanha de Frango,Italiana,"['Massa de lasanha', 'Frango desfiado', 'Molho de tomate', 'Queijo muçarela', 'Queijo parmesão']",Aves,Jantar,45,Médio,300,3g,250mg,25g,15g,0
+Macarrão com Alho e Óleo,Italiana,"['Macarrão', 'Alho', 'Azeite', 'Pimenta vermelha', 'Salsinha']",Massas,Almoço,30,Fácil,250,2g,100mg,5g,30g,0
+Brigadeiro de Paçoca,Brasileira,"['Leite condensado', 'Paçoca', 'Manteiga', 'Açúcar']",Sobremesa,Lanche,25,Fácil,200,20g,30mg,3g,25g,0
+Puchero,Espanhola,"['Feijão branco', 'Carne bovina', 'Legumes', 'Batata', 'Chorizo']",Carne,Almoço,50,Médio,350,2g,300mg,25g,20g,1
+Canjica,Brasileira,"['Milho para canjica', 'Leite', 'Leite condensado', 'Canela', 'Cravo']",Sobremesa,Lanche,45,Médio,280,20g,50mg,3g,40g,0
+Abóbora Recheada com Carne Seca,Brasileira,"['Abóbora', 'Carne seca', 'Requeijão', 'Cebola', 'Cheiro-verde']",Carne,Jantar,45,Médio,320,2g,200mg,20g,25g,0
+Salada de Maionese,Internacional,"['Batata', 'Cenoura', 'Maionese', 'Milho', 'Ervilha']",Salada,Almoço,20,Fácil,180,2g,150mg,5g,20g,0
+Peixe Empanado com Farinha de Rosca,Internacional,"['Filé de peixe', 'Farinha de rosca', 'Ovo', 'Limão', 'Sal']",Peixes,Almoço,25,Fácil,220,1g,250mg,20g,5g,1
+Rocambole de Chocolate,Internacional,"['Ovo', 'Açúcar', 'Chocolate em pó', 'Farinha de trigo', 'Leite']",Sobremesa,Lanche,50,Médio,300,30g,50mg,5g,40g,1
+Arroz de Bacalhau,Portuguesa,"['Arroz', 'Bacalhau', 'Cebola', 'Tomate', 'Azeitonas']",Peixes,Almoço,40,Médio,320,2g,200mg,20g,30g,1
+Macarrão ao Molho Pesto,Italiana,"['Macarrão', 'Manjericão', 'Azeite', 'Queijo parmesão', 'Alho']",Massas,Almoço,30,Fácil,250,2g,150mg,5g,30g,0
+Suflê de Queijo,Internacional,"['Leite', 'Queijo muçarela', 'Ovo', 'Farinha de trigo', 'Manteiga']",Vegetariano,Almoço,40,Médio,280,3g,200mg,15g,20g,1
+Feijão Tropeiro,Brasileira,"['Feijão', 'Farinha de mandioca', 'Bacon', 'Linguiça', 'Ovo']",Acompanhamento,Almoço,30,Médio,250,2g,180mg,10g,25g,1
+Caldo Verde,Portuguesa,"['Batata', 'Couve', 'Linguiça calabresa', 'Cebola', 'Alho']",Sopa,Almoço,30,Fácil,200,2g,250mg,5g,20g,0
+Salmão Grelhado com Molho de Maracujá,Internacional,"['Salmão', 'Maracujá', 'Azeite', 'Mel', 'Pimenta']",Peixes,Almoço,40,Médio,300,2g,200mg,25g,5g,0
+Lasanha de Berinjela e Abobrinha,Italiana,"['Berinjela', 'Abobrinha', 'Molho de tomate', 'Queijo muçarela', 'Manjericão']",Vegetariano,Jantar,45,Médio,280,3g,200mg,20g,15g,1
+Yakimeshi Vegetariano,Japonesa,"['Arroz', 'Legumes', 'Ovo', 'Molho de soja', 'Cebolinha']",Vegetariano,Almoço,35,Médio,250,3g,150mg,10g,25g,0
+Strogonoff de Camarão,Internacional,"['Camarão', 'Creme de leite', 'Molho de tomate', 'Mostarda', 'Cebola']",Peixes,Almoço,45,Médio,300,2g,200mg,25g,5g,0
+Salada de Macarrão com Atum,Internacional,"['Macarrão', 'Atum', 'Cenoura', 'Maionese', 'Milho']",Salada,Almoço,25,Fácil,180,3g,150mg,5g,20g,1
+Escondidinho de Linguiça,Brasileira,"['Linguiça calabresa', 'Mandioca', 'Queijo', 'Leite', 'Creme de leite']",Carne,Jantar,50,Médio,300,3g,250mg,25g,10g,0
+Panqueca de Frango,Internacional,"['Peito de frango', 'Massa de panqueca', 'Molho de tomate', 'Queijo muçarela', 'Cebola']",Aves,Almoço,40,Médio,320,2g,200mg,20g,30g,1
+Quibe Assado,Árabe,"['Carne moída', 'Trigo para quibe', 'Cebola', 'Hortelã', 'Noz-moscada']",Carne,Almoço,40,Médio,280,2g,200mg,15g,25g,0
+Strogonoff de Carne,Internacional,"['Carne bovina', 'Creme de leite', 'Molho de tomate', 'Mostarda', 'Cebola']",Carne,Almoço,45,Médio,300,2g,200mg,25g,5g,0
+Salada de Grão-de-bico com Bacalhau,Internacional,"['Grão-de-bico', 'Bacalhau', 'Tomate', 'Cebola roxa', 'Salsinha']",Salada,Almoço,25,Fácil,200,3g,150mg,5g,20g,0
+Torta de Frango com Requeijão,Internacional,"['Massa para torta', 'Frango desfiado', 'Requeijão', 'Milho', 'Azeitona']",Aves,Lanche,45,Médio,300,3g,200mg,20g,30g,1
+Yakimeshi de Carne,Japonesa,"['Arroz', 'Carne bovina', 'Legumes', 'Ovo', 'Molho de soja']",Carne,Almoço,35,Médio,250,3g,200mg,10g,25g,0
+Tabule de Quinoa,Internacional,"['Quinoa', 'Tomate', 'Pepino', 'Salsinha', 'Hortelã']",Salada,Almoço,25,Fácil,180,3g,120mg,5g,20g,0
+Empadão Goiano de Frango,Brasileira,"['Massa para empadão', 'Frango desfiado', 'Pequi', 'Guariroba', 'Requeijão']",Aves,Jantar,50,Médio,350,3g,180mg,20g,30g,1
+Brigadeiro de Leite Ninho,Brasileira,"['Leite condensado', 'Leite em pó', 'Manteiga', 'Açúcar']",Sobremesa,Lanche,25,Fácil,200,20g,30mg,3g,25g,1
+Peixe à Doré,Internacional,"['Filé de peixe', 'Ovo', 'Farinha de trigo', 'Limão', 'Sal']",Peixes,Almoço,25,Fácil,220,1g,250mg,20g,5g,0
+Escondidinho de Frango,Brasileira,"['Frango desfiado', 'Mandioca', 'Queijo', 'Leite', 'Creme de leite']",Aves,Jantar,50,Médio,300,3g,250mg,25g,10g,0
+Salada de Maionese com Legumes,Internacional,"['Batata', 'Cenoura', 'Maionese', 'Milho', 'Ervilha']",Salada,Almoço,20,Fácil,180,2g,150mg,5g,20g,0
+Farofa de Linguiça,Brasileira,"['Farinha de mandioca', 'Linguiça calabresa', 'Cebola', 'Cheiro-verde', 'Manteiga']",Acompanhamento,Almoço,25,Fácil,180,2g,150mg,5g,20g,1
+Sanduíche de Pernil,Brasileira,"['Pernil', 'Pão francês', 'Vinagrete', 'Manteiga', 'Alface']",Carne,Lanche,30,Fácil,250,2g,200mg,20g,30g,1
+Feijoada Vegana,Brasileira,"['Feijão preto', 'Tofu defumado', 'Abóbora', 'Couve', 'Cenoura']",Vegetariano,Almoço,50,Médio,300,2g,200mg,20g,25g,1
+Lasanha de Abobrinha,Italiana,"['Abobrinha', 'Molho de tomate', 'Queijo muçarela', 'Queijo parmesão', 'Manjericão']",Vegetariano,Jantar,45,Médio,280,3g,200mg,20g,15g,0
+Canja de Galinha,Internacional,"['Frango', 'Arroz', 'Cenoura', 'Salsinha', 'Cebola']",Sopa,Almoço,30,Fácil,250,2g,180mg,15g,20g,1
+Arroz de Forno,Brasileira,"['Arroz', 'Presunto', 'Queijo muçarela', 'Ervilha', 'Milho']",Acompanhamento,Almoço,40,Médio,280,2g,200mg,15g,25g,0
+Macarrão ao Molho de Abacate,Internacional,"['Macarrão', 'Abacate', 'Limão', 'Azeite', 'Salsinha']",Vegetariano,Almoço,30,Fácil,250,3g,150mg,5g,30g,0
+Torta de Legumes Low Carb,Internacional,"['Couve-flor', 'Brócolis', 'Ovo', 'Queijo muçarela', 'Tomate']",Vegetariano,Lanche,45,Médio,300,3g,180mg,20g,10g,1
+Escondidinho de Carne Seca com Aipim,Brasileira,"['Carne seca', 'Aipim', 'Requeijão', 'Cebola', 'Salsinha']",Carne,Jantar,50,Médio,320,2g,200mg,20g,25g,0
+Arroz de Costela,Brasileira,"['Arroz', 'Costela bovina', 'Tomate', 'Cebola', 'Cheiro-verde']",Carne,Almoço,40,Médio,300,3g,180mg,20g,30g,1
+Estrogonofe de Soja,Internacional,"['Proteína de soja', 'Creme de leite vegetal', 'Molho de tomate', 'Cebola', 'Alho']",Vegetariano,Almoço,40,Médio,280,1g,150mg,20g,15g,0
+Empadão de Frango com Catupiry,Brasileira,"['Massa para empadão', 'Frango desfiado', 'Catupiry', 'Milho', 'Azeitona']",Aves,Jantar,50,Médio,320,3g,180mg,20g,30g,1
+Moqueca Vegana,Brasileira,"['Tofu', 'Leite de coco', 'Pimentão', 'Tomate', 'Cebola']",Vegetariano,Almoço,45,Médio,300,2g,200mg,25g,10g,0
+Picanha de Soja,Internacional,"['Proteína de soja', 'Shoyu', 'Pimenta-do-reino', 'Alho', 'Óleo']",Vegetariano,Almoço,40,Médio,280,1g,180mg,25g,5g,1
+Salada Caesar de Frango,Internacional,"['Alface romana', 'Croutons', 'Queijo parmesão', 'Molho Caesar', 'Frango grelhado']",Salada,Almoço,20,Fácil,180,3g,200mg,20g,20g,0
+Farofa de Quinoa,Internacional,"['Quinoa', 'Cenoura', 'Uva-passa', 'Cebola', 'Cheiro-verde']",Acompanhamento,Almoço,25,Fácil,180,2g,150mg,10g,20g,1
+Bolo Integral de Maçã,Internacional,"['Farinha integral', 'Maçã', 'Ovo', 'Açúcar mascavo', 'Canela']",Sobremesa,Lanche,45,Médio,280,15g,50mg,5g,35g,1
+Yakimeshi Vegano,Japonesa,"['Arroz', 'Legumes', 'Tofu', 'Molho de soja', 'Cebolinha']",Vegetariano,Almoço,35,Médio,250,3g,150mg,10g,25g,0
+Empadão de Camarão,Brasileira,"['Massa para empadão', 'Camarão', 'Leite de coco', 'Requeijão', 'Cebola']",Peixes,Jantar,45,Médio,300,2g,180mg,20g,30g,0
+Espaguete ao Alho e Óleo,Italiana,"['Espaguete', 'Alho', 'Azeite', 'Pimenta vermelha', 'Salsinha']",Massas,Almoço,30,Fácil,250,2g,100mg,5g,30g,1
+Sorvete de Morango,Internacional,"['Morango', 'Leite condensado', 'Creme de leite', 'Açúcar', 'Gelo']",Sobremesa,Lanche,40,Médio,280,25g,30mg,2g,35g,1
+Ratatouille Vegano,Francesa,"['Berinjela', 'Abobrinha', 'Pimentão', 'Tomate', 'Cebola']",Vegetariano,Almoço,30,Fácil,200,3g,150mg,5g,20g,0
+Pão Integral,Internacional,"['Farinha integral', 'Fermento', 'Açúcar mascavo', 'Sal', 'Água']",Lanche,Café da Manhã,40,Fácil,180,5g,200mg,6g,35g,1
+Torta de Legumes com Massa de Grão-de-bico,Internacional,"['Grão-de-bico', 'Legumes variados', 'Tofu', 'Azeite', 'Sal']",Vegetariano,Lanche,45,Médio,280,3g,180mg,15g,20g,1
+Cocada Cremosa,Internacional,"['Coco ralado', 'Leite condensado', 'Leite', 'Açúcar']",Sobremesa,Lanche,30,Médio,250,25g,40mg,3g,30g,0
+Pizza Vegana de Legumes,Italiana,"['Massa de pizza', 'Molho de tomate', 'Berinjela', 'Abobrinha', 'Pimentão']",Vegetariano,Jantar,45,Médio,300,3g,200mg,20g,15g,1
+Pão de Batata Doce,Brasileira,"['Batata doce', 'Fermento', 'Açúcar', 'Sal', 'Água']",Lanche,Café da Manhã,40,Fácil,180,4g,180mg,5g,35g,1
+Creme de Abóbora com Gengibre,Internacional,"['Abóbora', 'Gengibre', 'Caldo de legumes', 'Creme de leite', 'Sal']",Sopa,Almoço,35,Fácil,200,3g,150mg,3g,20g,0
+Pão de Mel,Internacional,"['Mel', 'Açúcar mascavo', 'Farinha de trigo', 'Canela', 'Leite']",Sobremesa,Lanche,50,Médio,320,20g,30mg,4g,35g,1
+Risoto de Tomate Seco,Italiana,"['Arroz arbóreo', 'Tomate seco', 'Vinho branco', 'Queijo parmesão', 'Caldo de legumes']",Vegetariano,Almoço,35,Médio,300,3g,200mg,15g,25g,1
+Torta de Frango com Milho,Internacional,"['Massa para torta', 'Frango desfiado', 'Milho', 'Requeijão', 'Azeitona']",Aves,Lanche,45,Médio,300,3g,180mg,20g,30g,1
+Salada de Batata com Maionese,Internacional,"['Batata', 'Maionese', 'Cenoura', 'Milho', 'Ervilha']",Salada,Almoço,20,Fácil,180,2g,150mg,5g,20g,0
+Sorvete de Manga,Internacional,"['Manga', 'Leite condensado', 'Creme de leite', 'Açúcar', 'Gelo']",Sobremesa,Lanche,40,Médio,280,25g,30mg,2g,35g,0
+Panqueca Americana,Americana,"['Farinha de trigo', 'Ovo', 'Leite', 'Açúcar', 'Fermento']",Lanche,Café da Manhã,30,Fácil,200,5g,150mg,6g,20g,0
+Sopa de Legumes com Carne,Internacional,"['Carne bovina', 'Batata', 'Cenoura', 'Vagem', 'Caldo de carne']",Sopa,Almoço,35,Fácil,250,3g,200mg,15g,20g,0
+Tapioca com Queijo e Presunto,Brasileira,"['Goma de tapioca', 'Queijo muçarela', 'Presunto', 'Orégano', 'Tomate']",Lanche,Café da Manhã,20,Fácil,180,2g,150mg,10g,20g,0
+Suco Detox,Internacional,"['Couve', 'Maçã', 'Limão', 'Pepino', 'Água de coco']",Bebida,Lanche,10,Fácil,50,4g,10mg,1g,10g,0
+Omelete de Queijo e Presunto,Internacional,"['Ovo', 'Queijo muçarela', 'Presunto', 'Cebola', 'Tomate']",Lanche,Café da Manhã,15,Fácil,120,1g,180mg,10g,5g,0
+Mingau de Aveia,Internacional,"['Aveia', 'Leite', 'Açúcar', 'Canela', 'Banana']",Sobremesa,Lanche,20,Fácil,150,15g,50mg,5g,30g,0
+Estrogonofe de Frango,Internacional,"['Frango', 'Creme de leite', 'Molho de tomate', 'Mostarda', 'Cebola']",Aves,Almoço,45,Médio,300,2g,200mg,25g,5g,1
+Arroz Doce Vegano,Internacional,"['Arroz', 'Leite de coco', 'Açúcar de coco', 'Canela', 'Cravo']",Sobremesa,Lanche,45,Médio,280,20g,20mg,3g,40g,1
+Vitamina de Abacate,Internacional,"['Abacate', 'Leite', 'Açúcar', 'Gelo', 'Limão']",Bebida,Lanche,10,Fácil,150,15g,5mg,1g,10g,1
+Bruschetta de Tomate e Manjericão,Italiana,"['Pão italiano', 'Tomate', 'Manjericão', 'Azeite', 'Alho']",Lanche,Entrada,25,Fácil,120,3g,100mg,3g,20g,1
+Geleia de Morango,Internacional,"['Morango', 'Açúcar', 'Suco de limão']",Sobremesa,Lanche,40,Médio,250,30g,5mg,1g,40g,1
+Smoothie de Manga e Banana,Internacional,"['Manga', 'Banana', 'Iogurte', 'Mel', 'Gelo']",Bebida,Lanche,10,Fácil,120,20g,5mg,2g,25g,0
+Lasanha de Espinafre,Italiana,"['Massa para lasanha', 'Espinafre', 'Queijo muçarela', 'Molho de tomate', 'Queijo parmesão']",Vegetariano,Jantar,45,Médio,280,3g,200mg,20g,15g,0
+Risoto de Abóbora com Frango,Internacional,"['Arroz arbóreo', 'Abóbora', 'Frango desfiado', 'Cebola', 'Queijo parmesão']",Aves,Almoço,40,Médio,320,3g,180mg,20g,25g,0
+Pão Australiano,Internacional,"['Farinha de trigo', 'Açúcar mascavo', 'Fermento', 'Mel', 'Cacau']",Lanche,Café da Manhã,40,Fácil,180,5g,150mg,6g,20g,1
+Pudim de Leite Condensado,Internacional,"['Leite condensado', 'Leite', 'Ovo', 'Açúcar']",Sobremesa,Lanche,40,Médio,250,20g,50mg,5g,30g,0
+Carne de Panela,Brasileira,"['Carne bovina', 'Cebola', 'Alho', 'Tomate', 'Caldo de carne']",Carne,Almoço,40,Médio,300,2g,200mg,25g,5g,1
+Salada de Rúcula e Tomate Seco,Internacional,"['Rúcula', 'Tomate seco', 'Queijo parmesão', 'Azeite', 'Vinagre balsâmico']",Salada,Almoço,15,Fácil,100,1g,80mg,3g,5g,1
+Pão de Alho,Internacional,"['Pão francês', 'Alho', 'Manteiga', 'Cheiro-verde', 'Sal']",Lanche,Café da Manhã,25,Fácil,150,2g,100mg,4g,20g,1
+Sanduíche Natural,Internacional,"['Pão de forma', 'Peito de frango', 'Maionese', 'Alface', 'Tomate']",Lanche,Café da Manhã,15,Fácil,150,2g,100mg,10g,15g,0
+Peixe Assado com Legumes,Internacional,"['Filé de peixe', 'Batata', 'Cenoura', 'Abobrinha', 'Pimentão']",Peixes,Almoço,40,Médio,300,1g,180mg,20g,25g,0
+Bolinho de Chuva,Brasileira,"['Farinha de trigo', 'Açúcar', 'Ovo', 'Leite', 'Fermento']",Sobremesa,Lanche,30,Fácil,200,10g,20mg,3g,25g,0
+Frango ao Molho de Maracujá,Brasileira,"['Peito de frango', 'Maracujá', 'Molho de soja', 'Açúcar', 'Manteiga']",Aves,Almoço,45,Médio,320,2g,180mg,25g,5g,1
+Yakissoba de Carne,Chinesa,"['Macarrão', 'Carne bovina', 'Brócolis', 'Cenoura', 'Molho shoyu']",Carne,Almoço,35,Fácil,250,3g,180mg,20g,15g,1
+Bolo de Fubá,Brasileira,"['Fubá', 'Ovo', 'Açúcar', 'Leite', 'Fermento']",Sobremesa,Lanche,45,Médio,280,20g,10mg,3g,35g,0
+Salpicão de Frango,Brasileira,"['Frango desfiado', 'Maionese', 'Cenoura', 'Milho', 'Batata palha']",Aves,Almoço,30,Fácil,200,2g,150mg,15g,20g,1
+Salada de Pera com Gorgonzola,Internacional,"['Pera', 'Queijo gorgonzola', 'Rúcula', 'Nozes', 'Vinagre balsâmico']",Salada,Almoço,20,Fácil,150,5g,100mg,5g,10g,1
+Arroz de Camarão,Internacional,"['Arroz', 'Camarão', 'Tomate', 'Cebola', 'Cheiro-verde']",Peixes,Almoço,40,Médio,300,1g,180mg,20g,25g,1
+Sorvete de Pistache,Internacional,"['Pistache', 'Leite condensado', 'Creme de leite', 'Açúcar', 'Gelo']",Sobremesa,Lanche,40,Médio,280,25g,30mg,3g,25g,1
+Empadão de Bacalhau,Portuguesa,"['Massa para empadão', 'Bacalhau', 'Batata', 'Azeitona', 'Cebola']",Peixes,Jantar,45,Médio,300,2g,200mg,20g,25g,1
+Cuca de Banana,Internacional,"['Farinha de trigo', 'Banana', 'Açúcar', 'Manteiga', 'Canela']",Sobremesa,Lanche,50,Médio,320,20g,15mg,5g,30g,1
+Risoto de Frutos do Mar,Internacional,"['Arroz arbóreo', 'Frutos do mar', 'Cebola', 'Alho', 'Caldo de peixe']",Peixes,Almoço,50,Médio,350,2g,250mg,20g,30g,0
+Batata Recheada,Internacional,"['Batata', 'Requeijão', 'Bacon', 'Queijo cheddar', 'Salsinha']",Acompanhamento,Almoço,40,Médio,280,1g,150mg,10g,25g,0
+Macarrão à Carbonara,Italiana,"['Macarrão', 'Bacon', 'Ovo', 'Queijo parmesão', 'Pimenta preta']",Massas,Almoço,35,Médio,300,2g,180mg,20g,25g,1
+Rosca de Leite Condensado,Internacional,"['Farinha de trigo', 'Leite condensado', 'Ovo', 'Fermento', 'Açúcar']",Sobremesa,Lanche,40,Médio,250,20g,10mg,3g,35g,0
+Ensopado de Carne,Internacional,"['Carne bovina', 'Batata', 'Cenoura', 'Cebola', 'Caldo de carne']",Carne,Almoço,40,Médio,300,2g,180mg,25g,5g,0
+Rabanada de Nutella,Internacional,"['Pão amanhecido', 'Nutella', 'Leite', 'Ovo', 'Açúcar']",Sobremesa,Lanche,45,Médio,280,25g,20mg,5g,30g,1
+Empadão de Camarão com Catupiry,Brasileira,"['Massa para empadão', 'Camarão', 'Requeijão', 'Azeitonas', 'Cebola']",Peixes,Jantar,45,Médio,320,2g,200mg,20g,25g,0
+Yakissoba de Legumes e Tofu,Chinesa,"['Macarrão', 'Tofu', 'Brócolis', 'Cenoura', 'Molho shoyu']",Vegetariano,Almoço,30,Fácil,200,3g,180mg,15g,20g,0
+Suco de Manga com Laranja,Internacional,"['Manga', 'Laranja', 'Água', 'Açúcar', 'Gelo']",Bebida,Lanche,10,Fácil,100,10g,5mg,1g,20g,1
+Pão de Batata com Recheio de Calabresa,Internacional,"['Batata', 'Calabresa', 'Queijo muçarela', 'Requeijão', 'Leite']",Lanche,Café da Manhã,40,Fácil,180,3g,150mg,10g,25g,1
+Salada de Lentilha com Cebola Roxa,Internacional,"['Lentilha', 'Cebola roxa', 'Tomate', 'Salsinha', 'Vinagre']",Salada,Almoço,20,Fácil,180,2g,100mg,5g,20g,1
+Bolo de Milho,Brasileira,"['Milho verde', 'Açúcar', 'Fubá', 'Leite', 'Ovo']",Sobremesa,Lanche,45,Médio,280,20g,10mg,3g,35g,1
+Macarrão ao Molho Branco,Internacional,"['Macarrão', 'Leite', 'Farinha de trigo', 'Manteiga', 'Queijo parmesão']",Massas,Almoço,35,Médio,300,3g,180mg,20g,25g,1
+Feijão Mexicano,Mexicana,"['Feijão', 'Pimentão', 'Milho', 'Pimenta', 'Cebola']",Vegetariano,Almoço,30,Fácil,200,2g,150mg,10g,20g,0
+Salada de Pêssego e Ricota,Internacional,"['Pêssego', 'Ricota', 'Rúcula', 'Nozes', 'Vinagre balsâmico']",Salada,Almoço,20,Fácil,150,3g,100mg,5g,10g,1
+Macarronada de Forno,Italiana,"['Macarrão', 'Molho de tomate', 'Queijo muçarela', 'Presunto', 'Queijo parmesão']",Massas,Jantar,45,Médio,300,3g,200mg,20g,25g,0
+Sanduíche de Peito de Peru,Internacional,"['Pão de forma', 'Peito de peru', 'Maionese', 'Alface', 'Tomate']",Lanche,Café da Manhã,15,Fácil,150,1g,100mg,10g,15g,0
+Sorvete de Morango com Chocolate,Internacional,"['Morango', 'Chocolate', 'Leite condensado', 'Creme de leite', 'Açúcar']",Sobremesa,Lanche,40,Médio,280,30g,20mg,3g,25g,1
+Yakissoba de Carne e Vegetais,Chinesa,"['Macarrão', 'Carne bovina', 'Brócolis', 'Cenoura', 'Molho shoyu']",Carne,Almoço,35,Fácil,250,3g,180mg,20g,15g,1
+Arroz com Pequi,Brasileira,"['Arroz', 'Pequi', 'Frango', 'Cebola', 'Cheiro-verde']",Carne,Almoço,45,Médio,300,2g,200mg,25g,5g,0
+Salada de Grão-de-Bico,Internacional,"['Grão-de-bico', 'Tomate', 'Cebola', 'Salsinha', 'Azeite']",Salada,Almoço,25,Fácil,180,2g,100mg,5g,20g,1
+Bolo de Mandioca,Brasileira,"['Mandioca', 'Açúcar', 'Leite de coco', 'Ovo', 'Coco ralado']",Sobremesa,Lanche,45,Médio,280,20g,10mg,3g,35g,0
+Salada de Repolho,Internacional,"['Repolho', 'Cenoura', 'Maionese', 'Passas', 'Creme de leite']",Salada,Almoço,20,Fácil,180,2g,100mg,5g,20g,1
+Brigadeiro Gourmet,Brasileira,"['Leite condensado', 'Chocolate em pó', 'Manteiga', 'Creme de leite', 'Chocolate granulado']",Sobremesa,Lanche,30,Fácil,200,25g,20mg,3g,30g,1
+Suflê de Espinafre,Internacional,"['Espinafre', 'Ovo', 'Queijo parmesão', 'Leite', 'Farinha de trigo']",Vegetariano,Almoço,35,Médio,280,2g,150mg,10g,20g,1
+Risoto de Linguiça,Internacional,"['Arroz arbóreo', 'Linguiça calabresa', 'Queijo parmesão', 'Cebola', 'Caldo de legumes']",Carne,Almoço,40,Médio,300,3g,200mg,25g,5g,1
+Salada de Abobrinha,Internacional,"['Abobrinha', 'Tomate', 'Queijo feta', 'Manjericão', 'Azeite']",Salada,Almoço,20,Fácil,150,3g,100mg,5g,10g,1
+Pudim de Coco,Internacional,"['Leite de coco', 'Leite condensado', 'Ovo', 'Açúcar']",Sobremesa,Lanche,40,Médio,250,20g,30mg,5g,30g,0
+Empadão de Bacalhau com Catupiry,Brasileira,"['Massa para empadão', 'Bacalhau', 'Requeijão', 'Azeitonas', 'Cebola']",Peixes,Jantar,45,Médio,320,2g,200mg,20g,25g,1
+Sanduíche de Presunto e Queijo,Internacional,"['Pão de forma', 'Presunto', 'Queijo muçarela', 'Maionese', 'Alface']",Lanche,Café da Manhã,15,Fácil,150,2g,100mg,10g,15g,1
+Torta de Espinafre,Internacional,"['Massa para torta', 'Espinafre', 'Queijo muçarela', 'Creme de leite', 'Ovo']",Vegetariano,Lanche,40,Médio,280,2g,150mg,15g,20g,1
+Risoto de Cenoura e Gorgonzola,Italiana,"['Arroz arbóreo', 'Cenoura', 'Queijo gorgonzola', 'Cebola', 'Caldo de legumes']",Vegetariano,Almoço,35,Médio,280,2g,200mg,15g,20g,0
+Bolo de Laranja,Brasileira,"['Laranja', 'Açúcar', 'Farinha de trigo', 'Ovo', 'Fermento']",Sobremesa,Lanche,45,Médio,280,15g,10mg,3g,35g,1
+Escondidinho de Camarão,Brasileira,"['Camarão', 'Mandioca', 'Requeijão', 'Queijo muçarela', 'Manteiga']",Peixes,Almoço,40,Médio,300,2g,180mg,20g,25g,0
+Salada de Lentilha com Abobrinha,Internacional,"['Lentilha', 'Abobrinha', 'Cebola', 'Tomate', 'Salsinha']",Salada,Almoço,25,Fácil,180,2g,100mg,5g,20g,1
+Brigadeiro Branco,Brasileira,"['Leite condensado', 'Creme de leite', 'Manteiga', 'Chocolate branco', 'Granulado']",Sobremesa,Lanche,30,Fácil,200,25g,20mg,3g,30g,1
+Feijoada Vegetariana,Brasileira,"['Feijão preto', 'Tofu defumado', 'Cenoura', 'Repolho', 'Linguiça vegana']",Vegetariano,Almoço,50,Médio,350,1g,200mg,20g,30g,0
+Empadão de Frango com Palmito,Brasileira,"['Massa para empadão', 'Frango desfiado', 'Palmito', 'Requeijão', 'Cebola']",Aves,Jantar,45,Médio,320,2g,200mg,20g,25g,0
+Salada de Grão-de-Bico com Atum,Internacional,"['Grão-de-bico', 'Atum', 'Tomate', 'Cebola', 'Salsinha']",Salada,Almoço,20,Fácil,180,2g,100mg,5g,20g,0
+Torta de Maçã,Internacional,"['Massa para torta', 'Maçã', 'Açúcar', 'Canela', 'Limão']",Sobremesa,Lanche,45,Médio,280,20g,10mg,3g,35g,0
+Yakissoba de Legumes,Chinesa,"['Macarrão', 'Brócolis', 'Cenoura', 'Repolho', 'Molho shoyu']",Vegetariano,Almoço,35,Fácil,250,3g,180mg,20g,15g,1
+Arroz Sushi,Japonesa,"['Arroz', 'Alga nori', 'Vinagre de arroz', 'Açúcar', 'Salmão']",Peixes,Almoço,40,Médio,280,2g,150mg,20g,25g,1
+Sanduíche de Frango Grelhado,Internacional,"['Pão de forma', 'Peito de frango', 'Maionese', 'Alface', 'Tomate']",Lanche,Café da Manhã,15,Fácil,150,2g,100mg,10g,15g,0

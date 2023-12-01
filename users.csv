@@ -1,0 +1,61 @@
+id,sex,genre,age,height,weight,food_restrictions,exercise_days_per_week
+1,Masculino,Masculino,28,175,75,['Nenhuma'],1
+2,Feminino,Feminino,35,163,60,['Lactose'],4
+3,Não binário,Outro,22,170,68,['Glúten'],1
+4,Feminino,Feminino,40,160,55,['Frutos do mar'],6
+5,Masculino,Masculino,45,180,80,['Nenhuma'],1
+6,Não binário,Outro,30,167,70,"['Lactose', 'Frutos do mar']",1
+7,Masculino,Masculino,20,185,90,['Glúten'],4
+8,Feminino,Feminino,50,155,50,['Nenhuma'],3
+9,Masculino,Masculino,33,178,77,"['Frutos do mar', 'Lactose']",3
+10,Não binário,Outro,27,172,65,['Glúten'],6
+11,Masculino,Masculino,29,170,70,['Frutos do mar'],1
+12,Feminino,Feminino,38,168,63,['Glúten'],2
+13,Não binário,Outro,25,175,72,['Lactose'],2
+14,Masculino,Masculino,42,182,85,['Nenhuma'],1
+15,Não binário,Outro,31,165,67,"['Glúten', 'Frutos do mar']",1
+16,Masculino,Masculino,23,177,78,['Lactose'],5
+17,Feminino,Feminino,48,160,58,['Nenhuma'],6
+18,Masculino,Masculino,36,173,74,['Frutos do mar'],7
+19,Feminino,Feminino,32,158,52,['Lactose'],5
+20,Não binário,Outro,26,169,66,['Glúten'],6
+21,Masculino,Masculino,27,178,76,['Frutos do mar'],4
+22,Feminino,Feminino,34,165,62,['Nenhuma'],5
+23,Não binário,Outro,24,172,71,['Lactose'],5
+24,Masculino,Masculino,41,180,82,['Glúten'],3
+25,Não binário,Outro,29,169,68,"['Lactose', 'Frutos do mar']",5
+26,Masculino,Masculino,21,183,88,['Glúten'],4
+27,Feminino,Feminino,47,158,55,['Nenhuma'],4
+28,Masculino,Masculino,37,175,73,['Frutos do mar'],5
+29,Feminino,Feminino,31,160,60,['Lactose'],5
+30,Não binário,Outro,28,171,69,['Glúten'],7
+31,Masculino,Masculino,30,176,77,['Frutos do mar'],7
+32,Feminino,Feminino,39,163,58,['Nenhuma'],7
+33,Não binário,Outro,23,170,70,['Lactose'],7
+34,Masculino,Masculino,43,179,80,['Glúten'],6
+35,Não binário,Outro,33,167,66,"['Lactose', 'Frutos do mar']",6
+36,Masculino,Masculino,22,181,84,['Glúten'],1
+37,Feminino,Feminino,49,156,57,['Nenhuma'],7
+38,Masculino,Masculino,35,174,72,['Frutos do mar'],6
+39,Feminino,Feminino,29,161,59,['Lactose'],5
+40,Não binário,Outro,25,168,65,['Glúten'],2
+41,Masculino,Masculino,26,177,75,['Frutos do mar'],2
+42,Feminino,Feminino,33,166,63,['Nenhuma'],4
+43,Não binário,Outro,27,173,70,['Lactose'],1
+44,Masculino,Masculino,40,181,83,['Glúten'],2
+45,Não binário,Outro,30,170,69,"['Lactose', 'Frutos do mar']",3
+46,Masculino,Masculino,24,184,87,['Glúten'],2
+47,Feminino,Feminino,48,157,56,['Nenhuma'],5
+48,Masculino,Masculino,38,176,74,['Frutos do mar'],6
+49,Feminino,Feminino,32,159,61,['Lactose'],5
+50,Não binário,Outro,29,172,68,['Glúten'],6
+51,Masculino,Masculino,31,177,78,['Frutos do mar'],5
+52,Feminino,Feminino,40,164,59,['Nenhuma'],7
+53,Não binário,Outro,24,171,71,['Lactose'],6
+54,Masculino,Masculino,44,180,81,['Glúten'],6
+55,Não binário,Outro,34,168,67,"['Lactose', 'Frutos do mar']",5
+56,Masculino,Masculino,23,182,85,['Glúten'],7
+57,Feminino,Feminino,50,155,58,['Nenhuma'],7
+58,Masculino,Masculino,36,175,72,['Frutos do mar'],6
+59,Feminino,Feminino,30,162,60,['Lactose'],2
+60,Não binário,Outro,26,169,66,['Glúten'],3
